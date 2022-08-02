@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501018287366",
+    "project_id": "fire-base-app-79394",
+    "storage_bucket": "fire-base-app-79394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501018287366:android:ab4aade467bab36bf01287",
+        "android_client_info": {
+          "package_name": "com.gerald.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501018287366-guuf3t4bv2f26m5oh2uep71767mqa86k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQYSa0-w5FUom2oI_Kryo61VOQbHS35-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501018287366-guuf3t4bv2f26m5oh2uep71767mqa86k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
